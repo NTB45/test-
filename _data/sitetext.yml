@@ -17,7 +17,7 @@ en: &DEFAULT_EN
     buttonlink: "#services"
 
   services:
-    title: "Common Dialogues of Mr SNA NTB45 KuudereEnthusiast"
+    title: "Common Dialogues of KuudereEnthusiast"
     text: " program a goddamn ai on me mates "
     section: services
     list:
@@ -30,7 +30,9 @@ en: &DEFAULT_EN
       - title: "[Lazy](https://en.wikipedia.org/wiki/Sloth)"
         desc: "doesnt do shit on time"
         icon: fab fa-markdown
-
+      - title: "[FAGGOT ASS WEEB](https://en.uncyclopedia.co/wiki/Anime)"
+        desc: "yucky ass nerdy weeb"
+        icon: fab fa-laptop
   portfolio:
     title: "Shit I have done"
     text: "Very brave son of a gun"
